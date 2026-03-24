@@ -1,0 +1,21 @@
+## Visual Studio 2022
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+[Pp]ublishProfiles/
+
+## Other
+*.tmp
+*.cache
+*.vsidx
+*.dbmdl
+*.jfm
